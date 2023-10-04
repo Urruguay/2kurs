@@ -1,8 +1,0 @@
-C:\Users\Irina\Desktop\Вика\сишурупчик\02.10 шанд\bin\Debug\02.10 шанд.exe.config
-C:\Users\Irina\Desktop\Вика\сишурупчик\02.10 шанд\bin\Debug\02.10 шанд.exe
-C:\Users\Irina\Desktop\Вика\сишурупчик\02.10 шанд\bin\Debug\02.10 шанд.pdb
-C:\Users\Irina\Desktop\Вика\сишурупчик\02.10 шанд\obj\Debug\02.10 шанд.csproj.AssemblyReference.cache
-C:\Users\Irina\Desktop\Вика\сишурупчик\02.10 шанд\obj\Debug\02.10 шанд.csproj.SuggestedBindingRedirects.cache
-C:\Users\Irina\Desktop\Вика\сишурупчик\02.10 шанд\obj\Debug\02.10 шанд.csproj.CoreCompileInputs.cache
-C:\Users\Irina\Desktop\Вика\сишурупчик\02.10 шанд\obj\Debug\02.10 шанд.exe
-C:\Users\Irina\Desktop\Вика\сишурупчик\02.10 шанд\obj\Debug\02.10 шанд.pdb
