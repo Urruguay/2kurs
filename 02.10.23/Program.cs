@@ -49,16 +49,16 @@ namespace _02._10._23
 
             //Задание 3
 
-            CursorVisible = false;
-            BackgroundColor = ConsoleColor.White;
-            ForegroundColor = ConsoleColor.Black;
+            CursorVisible = false;                   //Скрыть курсор.
+            BackgroundColor = ConsoleColor.White;    //Изменяем цвет фона
+            ForegroundColor = ConsoleColor.Black;    //Изменяем цвет символов
             Clear();
-            Title = "Вика";
-            Beep(622, 90);
-            Write("Как вас зовут?   -   ");
-            string name = ReadLine();
-            WriteLine($"Приветствую Вас - {name} !");
-            Beep(264, 125);
+            Title = "Тема№4 Компьютерный практикум№1 (Вика)";   // Устанавливаем название окна консоли - Тема №. Компьютерный практикум № (фамилия).
+            Beep(622, 90);                                      //Звук
+            Write("Как вас зовут?   -   ");                     // Запрашиваем через консоль имя человека, а затем...
+            string name = ReadLine();                 
+            WriteLine($"Приветствую Вас - {name} !");           //...здороваемся с этим человеком
+            Beep(264, 125);                                     //Звук
             Thread.Sleep(250);
             Beep(264, 125);
             Thread.Sleep(125);
@@ -71,7 +71,7 @@ namespace _02._10._23
             Beep(330, 1000);
             Thread.Sleep(250);
 
-            Console.WriteLine("Caps Lock    -     " + (CapsLock ? "On" : "Off"));
+            Console.WriteLine("Caps Lock    -     " + (CapsLock ? "On" : "Off"));  //Отображаем состояние: CapsLock и NumLock.
             Console.WriteLine("Num Lock    -    " + (NumberLock ? "On" : "Off"));
 
             
