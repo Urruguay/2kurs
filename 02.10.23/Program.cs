@@ -73,88 +73,8 @@ namespace _02._10._23
 
             Console.WriteLine("Caps Lock    -     " + (CapsLock ? "On" : "Off"));
             Console.WriteLine("Num Lock    -    " + (NumberLock ? "On" : "Off"));
-            //Звук
-            /*{
-                Beep(659, 120);
-                Thread.Sleep(130);
-                Beep(622, 120);
-                Thread.Sleep(130);
 
-                Beep(659, 120);
-                Thread.Sleep(130);
-                Beep(622, 120);
-                Thread.Sleep(130);
-                Beep(659, 120);
-                Thread.Sleep(130);
-                Beep(494, 120);
-                Thread.Sleep(130);
-                Beep(587, 120);
-                Thread.Sleep(130);
-                Beep(523, 120);
-                Thread.Sleep(130);
-
-                Beep(440, 120);
-                Thread.Sleep(150);
-                Beep(262, 120);
-                Thread.Sleep(130);
-                Beep(330, 120);
-                Thread.Sleep(130);
-                Beep(440, 120);
-                Thread.Sleep(130);
-
-                Beep(494, 120);
-                Thread.Sleep(150);
-                Beep(330, 120);
-                Thread.Sleep(130);
-                Beep(415, 120);
-                Thread.Sleep(130);
-                Beep(494, 120);
-                Thread.Sleep(130);
-
-                Beep(523, 120);
-                Thread.Sleep(150);
-                Beep(330, 120);
-                Thread.Sleep(130);
-                Beep(659, 120);
-                Thread.Sleep(130);
-                Beep(622, 120);
-                Thread.Sleep(130);
-
-                Beep(659, 120);
-                Thread.Sleep(130);
-                Beep(622, 120);
-                Thread.Sleep(130);
-                Beep(659, 120);
-                Thread.Sleep(130);
-                Beep(494, 120);
-                Thread.Sleep(130);
-                Beep(587, 120);
-                Thread.Sleep(130);
-                Beep(523, 120);
-                Thread.Sleep(130);
-
-                Beep(440, 120);
-                Thread.Sleep(150);
-                Beep(262, 120);
-                Thread.Sleep(130);
-                Beep(330, 120);
-                Thread.Sleep(130);
-                Beep(440, 120);
-                Thread.Sleep(130);
-
-                Beep(494, 120);
-                Thread.Sleep(150);
-                Beep(330, 120);
-                Thread.Sleep(130);
-                Beep(523, 120);
-                Thread.Sleep(130);
-                Beep(494, 120);
-                Thread.Sleep(150);
-                Beep(440, 120);
-            }
-            */
-            //Продолжаем работать, это я просто игралась)))
-
+            
             ReadKey();
         }
     }
