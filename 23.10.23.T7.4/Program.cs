@@ -38,16 +38,9 @@ namespace _23._10._23.T7._4
             string soo = ReadLine();
             Write("Кол-во букв в слове  -  ");
             int n = int.Parse(ReadLine());
-            //var msv = soo.Split(new char[] { ' ', ',', '.', '!', '?', '-' }).Where(x => x.Length >= n).ToArray();
-            var msv = soo.Split(new char[] { ' ', ',', '.', '!', '?', '-' });
-            foreach (var m in msv)
-                WriteLine(m);
-            msv = msv.Where(x => x.Length >= n).ToArray();
-            foreach (var item in msv)
+            var mass = soo.Split(new char[] { ' ', ',', '.', '!', '?', '-' }).Where(x => x.Length <= n);
+            foreach (var item in mass)
                 WriteLine(item);
-            //WriteLine("Ваше предложение  -  " + soo);
-            //foreach (var item in msv)
-
 
             ReadKey();
         }
