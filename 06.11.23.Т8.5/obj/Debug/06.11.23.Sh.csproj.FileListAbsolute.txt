@@ -1,0 +1,16 @@
+C:\Users\kab31\OneDrive\Рабочий стол\pr7\06.11.23.Sh\bin\Debug\06.11.23.Sh.exe.config
+C:\Users\kab31\OneDrive\Рабочий стол\pr7\06.11.23.Sh\bin\Debug\06.11.23.Sh.exe
+C:\Users\kab31\OneDrive\Рабочий стол\pr7\06.11.23.Sh\bin\Debug\06.11.23.Sh.pdb
+C:\Users\kab31\OneDrive\Рабочий стол\pr7\06.11.23.Sh\obj\Debug\06.11.23.Sh.csproj.AssemblyReference.cache
+C:\Users\kab31\OneDrive\Рабочий стол\pr7\06.11.23.Sh\obj\Debug\06.11.23.Sh.csproj.SuggestedBindingRedirects.cache
+C:\Users\kab31\OneDrive\Рабочий стол\pr7\06.11.23.Sh\obj\Debug\06.11.23.Sh.csproj.CoreCompileInputs.cache
+C:\Users\kab31\OneDrive\Рабочий стол\pr7\06.11.23.Sh\obj\Debug\06.11.23.Sh.exe
+C:\Users\kab31\OneDrive\Рабочий стол\pr7\06.11.23.Sh\obj\Debug\06.11.23.Sh.pdb
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\06.11.23.Т8.5\bin\Debug\06.11.23.Sh.exe.config
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\06.11.23.Т8.5\bin\Debug\06.11.23.Sh.exe
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\06.11.23.Т8.5\bin\Debug\06.11.23.Sh.pdb
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\06.11.23.Т8.5\obj\Debug\06.11.23.Sh.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\06.11.23.Т8.5\obj\Debug\06.11.23.Sh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\06.11.23.Т8.5\obj\Debug\06.11.23.Sh.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\06.11.23.Т8.5\obj\Debug\06.11.23.Sh.exe
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\06.11.23.Т8.5\obj\Debug\06.11.23.Sh.pdb
