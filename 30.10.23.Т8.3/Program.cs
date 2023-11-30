@@ -83,17 +83,34 @@ namespace _30._10._23.Т8._3
 
         static void Main(string[] args)
         {
-            Min();
+
+            int indent = 5;
+            int count = 18;
+            //for (int i = indent + 1; i <= count + indent; i++)
+            //{
+            //    if (count < indent) { Write(" "); }
+            //    else { WriteLine("!"); }
+
+            //    WriteLine();
+            //}
+            //Min();
+
+            for (int i = 1; i <= 23; i++)
+            {
+                if (i != indent)
+                { Write(" "); }
+                else { WriteLine("!"); }
+            }
             Read();
         }
         static void Min()
         {
-            Write("Введите число a - ");
-            double a = double.Parse(ReadLine());
-            Write("Введите число b - ");
-            double b = double.Parse(ReadLine());  //double a = 2, b = 4;
-            double y = (Math.Min(2 * a, b + a)), x = (Math.Min(2 * a - b, b));
-            WriteLine($"Число z = {x + y}");      //4
+            //Write("Введите число a - ");
+            //double a = double.Parse(ReadLine());
+            //Write("Введите число b - ");
+            //double b = double.Parse(ReadLine());  //double a = 2, b = 4;
+            //double y = (Math.Min(2 * a, b + a)), x = (Math.Min(2 * a - b, b));
+            //WriteLine($"Число z = {x + y}");      //4
         }
 
 
