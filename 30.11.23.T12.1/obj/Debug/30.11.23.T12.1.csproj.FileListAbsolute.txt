@@ -1,0 +1,8 @@
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\30.11.23.T12.1\obj\Debug\30.11.23.T12.1.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\30.11.23.T12.1\obj\Debug\30.11.23.T12.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\30.11.23.T12.1\obj\Debug\30.11.23.T12.1.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\30.11.23.T12.1\bin\Debug\30.11.23.T12.1.exe.config
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\30.11.23.T12.1\bin\Debug\30.11.23.T12.1.exe
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\30.11.23.T12.1\bin\Debug\30.11.23.T12.1.pdb
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\30.11.23.T12.1\obj\Debug\30.11.23.T12.1.exe
+C:\Users\Irina\Desktop\Вика\сишурупчик\deporeposit\2kurs\30.11.23.T12.1\obj\Debug\30.11.23.T12.1.pdb
