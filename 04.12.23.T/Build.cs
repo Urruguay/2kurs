@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
@@ -42,7 +43,7 @@ namespace _04._12._23.T
         /// </summary>
         public void Showinfo()
         {
-            WriteLine($"\n Название строения - {name}\n Площадь строения - {area}\n Кол-во жильцов - {kvo}\n Площадь на одного жильца - {area/kvo}");
+            WriteLine($"\n Название строения - {name}\n Площадь строения - {area}кв.м\n Кол-во жильцов - {kvo} человек\n Площадь на одного жильца - {area/kvo}кв.м");
         }
     }
 }

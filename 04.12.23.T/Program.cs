@@ -21,14 +21,14 @@ namespace _04._12._23.T
             Build dom2 = new Build("Дача", 200, 8);
             dom2.Showinfo();
             
-            Build dom3 = new Build();
             Write("\n Введите имя строения (дом 3): ");
-            dom3.name = ReadLine();
+            string name =Console.ReadLine();
             Write(" Введите площадь строения: ");
-            dom3.area = Convert.ToDouble(ReadLine());
+            double area = Convert.ToDouble(ReadLine());
             Write(" Введите количество жильцов: ");
-            dom3.kvo = Convert.ToInt32(ReadLine());
-            dom3.Showinfo();
+            int kvo = Convert.ToInt32(ReadLine());
+            Build dom3=new Build(name, area, kvo);
+
             Read();
         }
     }
