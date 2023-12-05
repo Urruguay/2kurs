@@ -29,6 +29,7 @@ namespace _04._12._23.T
             int kvo = Convert.ToInt32(ReadLine());
             Build dom3=new Build(name, area, kvo);
 
+
             Read();
         }
     }
