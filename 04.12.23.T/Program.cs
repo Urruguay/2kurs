@@ -22,7 +22,7 @@ namespace _04._12._23.T
             dom2.Showinfo();
             
             Write("\n Введите имя строения (дом 3): ");
-            string name =Console.ReadLine();
+            string name = ReadLine();
             Write(" Введите площадь строения: ");
             double area = Convert.ToDouble(ReadLine());
             Write(" Введите количество жильцов: ");
