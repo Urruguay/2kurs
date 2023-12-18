@@ -37,6 +37,21 @@ namespace _14._12._23.T13._1
             }
         }
 
+        public string Name { get => name; set => name = value; }
+        public int Age
+        {
+
+            get
+            {
+                return age ;
+            }
+
+            set
+            {
+                age = value;
+            }
+        }
+
         public Student(string fam, int kurs)
         {
             this.Fam = fam;
@@ -45,18 +60,16 @@ namespace _14._12._23.T13._1
 
         public void ShowInfo()
         {
-            WriteLine($"\nФамилия - {Fam}\nКурс - {Kurs}");
+            WriteLine($"\nФамилия - {Fam}\nИмя - {Name}\nВозраст - {Age}\nКурс - {Kurs}");
         }
 
-        public string name;
-        public int age;
+        private string name;
+        private int age;
 
         public Student(string fam, int kurs, string Fam, int Kurs, string name, int age) : this(fam, kurs)
         {
-            Fam = fam;
-            Kurs = kurs;
-            this.name = name;
-            this.age = age;
+            this.Name = name;
+            this.Age = age;
         }
     }
 }
