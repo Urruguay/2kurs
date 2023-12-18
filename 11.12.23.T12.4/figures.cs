@@ -28,7 +28,7 @@ namespace _11._12._23.T12._4
         /// <summary>
         /// Конструктор без параметров
         /// </summary>
-        public Figures() {}
+        public Figures() { }
         /// <summary>
         /// Конструктор с параметрами
         /// </summary>
@@ -43,9 +43,14 @@ namespace _11._12._23.T12._4
         /// </summary>
         public void Func()
         {
-            int P = 2*(side1+side2);
+            int P = 2 * (side1 + side2);
             int S = side1 * side2;
             WriteLine($"Периметр = {P}\nПлощадь = {S}");
+        }
+        public void Funrtr()
+        {
+            int P = side1 + side2 + side3;
+            WriteLine($"Периметр = {P}");
         }
         /// <summary>
         /// Метод с информацией о какой-либо фигуре
