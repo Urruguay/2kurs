@@ -39,8 +39,6 @@ namespace _18._12._23.Т13._2
         {
             get
             {
-
-                
                 return year < 1800 || year > 2023 ? 0:year;
             }
             set
@@ -58,18 +56,18 @@ namespace _18._12._23.Т13._2
         }
         public void VaryYear()
         {
-            Write("Введите число на которое изменится год издания - ");
+            Write("Введите количество лет для изменения - ");
             int num = int.Parse(ReadLine());
-            Year = year + num;
-            WriteLine($"Изменный год - {Year}");
+            year += num;
+            WriteLine($"Изменный год - {year}");
 
-            if (year < 1800 && year > 2023)
+            if (year > 1800 && year < 2023)
             {
-                WriteLine("Год попадает в данный интервал");
+                WriteLine($"Год {year} попадает в заданный интервал");
             }
             else
             {
-                WriteLine("Год не попадает в данный интервал");
+                WriteLine($"Год {year} не попадает в заданный интервал");
             }
         }
         public void Info()
